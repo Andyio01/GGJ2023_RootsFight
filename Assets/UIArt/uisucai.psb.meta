@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 7ba15e0ed4f82a44cb38964a928a6430
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: yuanhailuo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 657
+      y: 884
+      width: 300
+      height: 259
+    spriteID: fe6e5cff8c6f83847b62b8d11f03f8c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 36, y: 809}
+    spritePosition: {x: 0, y: 0}
+  - name: hailuo2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 4
+      width: 581
+      height: 324
+    spriteID: f3879ea94607c364b949d2fa2bc28cf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -814, y: -497}
+    spritePosition: {x: 0, y: 0}
+  - name: hailuo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 1171
+      width: 384
+      height: 209
+    spriteID: 5670a5e73fab3f74481af689900a3c6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -297, y: 784}
+    spritePosition: {x: 0, y: 0}
+  - name: ping2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 1388
+      width: 405
+      height: 166
+    spriteID: f12a544a9c9cd3e41bb14134868f1f97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -797, y: 580}
+    spritePosition: {x: 0, y: 0}
+  - name: pingzi
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 658
+      width: 462
+      height: 218
+    spriteID: 4d6dec921b7966041b0ed1fff5103e02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -826, y: 507}
+    spritePosition: {x: 0, y: 0}
+  - name: beike
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 336
+      width: 408
+      height: 314
+    spriteID: 8c46526b878cd0c47bcdb6b0a83c57d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -290, y: -327}
+    spritePosition: {x: 0, y: 0}
+  - name: haixing2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 820
+      y: 658
+      width: 199
+      height: 200
+    spriteID: fc3f2a7abc2e9e0499e9c782fcef139c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 760, y: 502}
+    spritePosition: {x: 0, y: 0}
+  - name: haixing1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 742
+      y: 1171
+      width: 199
+      height: 200
+    spriteID: e3e1bb47cf2a4c643bdb99e675060df0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 441, y: 1008}
+    spritePosition: {x: 0, y: 0}
+  - name: shanhu
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 884
+      width: 299
+      height: 279
+    spriteID: 8cb257f332aac07449a4787b1cad36ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 26, y: 470}
+    spritePosition: {x: 0, y: 0}
+  - name: yu
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 763
+      y: 1388
+      width: 203
+      height: 102
+    spriteID: 2df65cf1d3c29a04785c90b92f7709da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 375, y: 506}
+    spritePosition: {x: 0, y: 0}
+  - name: haicao
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 338
+      height: 590
+    spriteID: 490a78a8ab8583c42b162c360d3e7de0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 31, y: 387}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: yuanhailuo
+    spriteName: yuanhailuo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fe6e5cff8c6f83847b62b8d11f03f8c6
+    layerID: 12
+    mosaicPosition: {x: 657, y: 884}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: hailuo2
+    spriteName: hailuo2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f3879ea94607c364b949d2fa2bc28cf7
+    layerID: 11
+    mosaicPosition: {x: 350, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: hailuo
+    spriteName: hailuo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5670a5e73fab3f74481af689900a3c6b
+    layerID: 10
+    mosaicPosition: {x: 350, y: 1171}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ping2
+    spriteName: ping2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f12a544a9c9cd3e41bb14134868f1f97
+    layerID: 9
+    mosaicPosition: {x: 350, y: 1388}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: pingzi
+    spriteName: pingzi
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4d6dec921b7966041b0ed1fff5103e02
+    layerID: 8
+    mosaicPosition: {x: 350, y: 658}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: beike
+    spriteName: beike
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8c46526b878cd0c47bcdb6b0a83c57d0
+    layerID: 7
+    mosaicPosition: {x: 350, y: 336}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: haixing2
+    spriteName: haixing2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fc3f2a7abc2e9e0499e9c782fcef139c
+    layerID: 6
+    mosaicPosition: {x: 820, y: 658}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: haixing1
+    spriteName: haixing1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e3e1bb47cf2a4c643bdb99e675060df0
+    layerID: 5
+    mosaicPosition: {x: 742, y: 1171}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: shanhu
+    spriteName: shanhu
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8cb257f332aac07449a4787b1cad36ea
+    layerID: 4
+    mosaicPosition: {x: 350, y: 884}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: yu
+    spriteName: yu
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2df65cf1d3c29a04785c90b92f7709da
+    layerID: 3
+    mosaicPosition: {x: 763, y: 1388}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: haicao
+    spriteName: haicao
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 490a78a8ab8583c42b162c360d3e7de0
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u80CC\u666F"
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fe26a05336635c84185f3b9b9535e781
+    layerID: 1
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

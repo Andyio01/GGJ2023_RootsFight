@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/Resources/Target.prefab.meta
+guid: 1bd90d1d7737b34419e1adacb4c29bbe
+PrefabImporter:
+========
+guid: 395b69db5a8b2474db5bb73e650fffc5
+DefaultImporter:
+>>>>>>>> afd3268f5fb65e3d7cfe2ab8cf065db2ade2587d:Assets/Scenes/BattleSettlement1.unity.meta
+=======
+guid: 1bd90d1d7737b34419e1adacb4c29bbe
+PrefabImporter:
+>>>>>>> 7c5e63aac56cbaa92491190ce57e0724da04ff09
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
